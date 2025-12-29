@@ -7,7 +7,7 @@ Currently this project has the scanner and parser part of the compiler (frontend
 The next logical step would involve creating an abstract syntax tree (AST) for syntax analysis to then be able to generate code.
 
 # How to run
-Since the compiler does not have full functionality, individual components can be tested for functionaility using the example files (bminor).
+Since the compiler does not have full functionality, individual components can be tested for functionaility using the example files (.bminor extension).
 
 # License
 None. 
